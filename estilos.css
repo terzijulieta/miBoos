@@ -1,0 +1,12 @@
+body{ 
+    background-color: darkgrey ;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+carousel-item{
+    display: flex;
+    height: 100%;
+    width: 100%;
+
+}
